@@ -1,0 +1,5 @@
+spring.application.name=SpringAITest
+spring.main.banner-mode=off
+spring.main.web-application-type=none
+spring.main.allow-bean-definition-overriding=true
+spring.ai.openai.api-key=<your API-key here> # https://platform.openai.com/api-keys
